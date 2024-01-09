@@ -26,9 +26,10 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 Khan Academy
-    * The app's purpose: learning while on the go.
-    * The layout. The layout is simple but effective. I can find what I am looking for.
-    * The design of the quizzes. The quizzes are not too small and not too big. The quizzes take up just the right amount of screen space
+ * The app's purpose: learning while on the go.
+ * The layout. The layout is simple but effective. I can find what I am looking for.
+ * The design of the quizzes. The quizzes are not too small and not too big. The quizzes take up just the right amount of screen space
+
 Gmail 
   * The layout. The layout is well-designed. I can easily switch between Gmail and Meet with the press of a button
   * The navigation drawer. I like the design of it, the icons, and the items on the list: Primary, Promotions, Socials, etc. I can quickly access what I need. 
@@ -38,9 +39,9 @@ Lyft
   * The app purpose: booking a ride from the convenience of a phone.
   * The different colors and how they blend well with one another.
   * The share location feature. You can share your location with a friend, family, guarding, significant other, whoever.
-    
-Expense trackers for independent contractors
-The app's purpose: track down expenses for independent contractors. When its time to file taxes, the independent contractor can send all expenses to the tax accountant. The independent contractor can reduce his or her taxes to the correct amount by writing off a list of expenses. 
+
+Tax break - Expense trackers for independent contractors <br>
+The app's purpose: track down expenses for independent contractors. When its time to file taxes, the independent contractor can send all expenses to the tax accountant. The independent contractor can reduce his or her taxes to the correct amount by writing off a list of expenses.<br><br>
   Features: 
   * Take a picture of the receipt and categorize the expense
   * Categories expense from debit/credit card transactions 
@@ -51,8 +52,10 @@ The app's purpose: track down expenses for independent contractors. When its tim
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Step 3:
+Checkboxes 2 and 3, "Click on the Adjust Editor Options button on the top right of Xcode",  and "Click on the Assistant in the drop-down". 
+The Assistant view was not appearing. I decided to turn off the computer and try again the next day. The next day, I followed the same directions
+and the assistant view appeared. 
 ## License
 
     Copyright [2023] [Sakar Michel]
