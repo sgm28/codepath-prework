@@ -4,7 +4,7 @@ Submitted by: **Sakar Michel**
 
 **PreWork** an app that changes the background color when the button is pressed.
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
